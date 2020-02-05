@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../code/SumProblem.cpp" />
+		<Unit filename="../code/1002A+BProblemII.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
