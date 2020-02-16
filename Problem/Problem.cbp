@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../code/FatMouse&apos;Trade.cpp" />
+		<Unit filename="../code/TempterOfTheBone.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
